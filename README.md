@@ -7,3 +7,4 @@ An implementation of the single image dehazing algorithm proposed in the paper [
 
 ## References
 - [JiamingMai/Color-Attenuation-Prior-Dehazing](https://github.com/JiamingMai/Color-Attenuation-Prior-Dehazing)
+- [atilimcetin/guided-filter](https://github.com/atilimcetin/guided-filter)
